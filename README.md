@@ -21,7 +21,7 @@ pipenv shell
 Run the following commands to install the dependencies
 
 ```shell
-pipenv install pipfile
+pipenv install
 ```
 
 We can now run the Jupyter notebook.
